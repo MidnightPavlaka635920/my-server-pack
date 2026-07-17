@@ -1,0 +1,16 @@
+{
+  "customdisc.ue": {
+    "sounds": [{
+      "stream": true,
+      "name": "custom/ue"
+    }],
+    "category": "record"
+  },
+  "customdisc.hh_instrumental": {
+    "sounds": [{
+      "stream": true,
+      "name": "custom/hh_instrumental"
+    }],
+    "category": "record"
+  }
+}

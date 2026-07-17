@@ -1,0 +1,24 @@
+{"model": {
+  "entries": [
+    {
+      "threshold": 7479232,
+      "model": {
+        "model": "item/custom_music_disc_ue",
+        "type": "model"
+      }
+    },
+    {
+      "threshold": 4884176,
+      "model": {
+        "model": "item/custom_music_disc_hh_instrumental",
+        "type": "model"
+      }
+    }
+  ],
+  "property": "custom_model_data",
+  "type": "range_dispatch",
+  "fallback": {
+    "model": "minecraft:item/music_disc_13",
+    "type": "model"
+  }
+}}
