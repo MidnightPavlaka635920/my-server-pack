@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "type": "square-textured",
+  "texture": "miku:textures/sky/day.png",
+  "properties": {
+    "layer": 0,
+    "fade": {
+      "duration": 24000,
+      "keyFrames": {
+        "0": 1.0,
+        "11000": 1.0,
+        "12000": 1.0,
+        "13000": 0.0,
+        "23000": 0.0
+      }
+    }
+  },
+  "conditions": {
+    "dimensions": {
+      "entries": ["minecraft:overworld"]
+    }
+  }
+}
